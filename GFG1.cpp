@@ -1,4 +1,5 @@
-/// MAX Sum Subarray Of Size k Problme on GFG
+/// MAX Sum Subarray Of Size k Problme on GFG 
+// Pattern used Sliding Window problem 1
 
 
 class Solution {
