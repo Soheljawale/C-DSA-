@@ -2,6 +2,8 @@
 // Pattern used Sliding Window problem 1
 
 
+
+
 class Solution {
 public:
     int maxSubarraySum(vector<int>& arr, int k) {
