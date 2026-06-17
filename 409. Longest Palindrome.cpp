@@ -1,6 +1,5 @@
 409. Longest Palindrome
 
-
 class Solution {
 public:
     int longestPalindrome(string s) {
