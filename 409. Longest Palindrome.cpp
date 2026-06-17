@@ -1,5 +1,5 @@
 409. Longest Palindrome
-
+#code in C++
 class Solution {
 public:
     int longestPalindrome(string s) {
@@ -17,5 +17,8 @@ public:
         return s.length();
     }
 };
+
+
+
 
 
