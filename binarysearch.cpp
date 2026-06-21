@@ -28,3 +28,7 @@ int binarysearch(vector<int>& arr, int target, int st, int end){
         return binarysearch(arr, target, 0, arr.size()-1);
     }
 };
+
+
+Time complexity :  O(log n)
+Space Complexity:  O(log n)
