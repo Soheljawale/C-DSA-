@@ -37,5 +37,11 @@ int main(){
 
 
 
+// Output
+// Enter size of an array 4
+// insert array elements 12,1,3,100
+// Array elements after sorted 1,3,12,100
+
+
 
 //Output
