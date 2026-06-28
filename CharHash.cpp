@@ -1,3 +1,4 @@
+// Character Hashing program using Hashing method in C++ 
 
 #include<bits/stdc++.h>
 using namespace std;
