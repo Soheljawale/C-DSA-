@@ -1,7 +1,5 @@
 
 
-
-
 // Reverse array Solution correct
 
 #include <iostream>
